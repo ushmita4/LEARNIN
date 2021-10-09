@@ -70,3 +70,21 @@ body{
     color: white;
     text-align: center;
   }
+  .h3forresources{
+    font-size: 15px;
+    color:red;
+    text-align: center;
+  }
+  .row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+  @media screen and (max-width: 500px) {
+    .column {
+      width: 100%;
+    }
+  }
