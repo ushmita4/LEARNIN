@@ -55,3 +55,18 @@ body{
     text-align: left;
     color: black
   }
+  .img-container-block {
+    text-align: center;
+  }
+  .img-container-inline {
+    text-align: center;
+    display: block;
+  }
+  .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(248, 2, 228);
+    color: white;
+    text-align: center;
+  }
