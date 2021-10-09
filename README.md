@@ -1,2 +1,2 @@
-# LearnIn
+# LEARNIN
 A website that aids students in their learning journey.
